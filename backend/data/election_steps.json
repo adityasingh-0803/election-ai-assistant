@@ -1,8 +1,22 @@
 [
-  "Voter Registration",
-  "Electoral Roll Verification",
-  "Candidate Nomination",
-  "Campaigning",
-  "Voting using EVM",
-  "Counting and Results"
+  {
+    "question": "What is voting?",
+    "answer": "Voting is the process where citizens select their representatives in an election."
+  },
+  {
+    "question": "How can I register as a voter in India?",
+    "answer": "You can register online through the NVSP portal or submit Form 6 offline."
+  },
+  {
+    "question": "What is EVM?",
+    "answer": "EVM stands for Electronic Voting Machine used in Indian elections."
+  },
+  {
+    "question": "Who conducts elections in India?",
+    "answer": "Elections are conducted by the Election Commission of India."
+  },
+  {
+    "question": "What is VVPAT?",
+    "answer": "VVPAT allows voters to verify their vote by showing a printed slip."
+  }
 ]
