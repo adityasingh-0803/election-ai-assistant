@@ -1,8 +1,4 @@
-from fastapi.testclient import TestClient
-from main import app
-
-client = TestClient(app)
-
-def test_home():
-    response = client.get("/")
+def test_chat_response():
+    response = client.get("/chat/?query=What is voting?")
     assert response.status_code == 200
+    assert "voting" in response.json()["response"].lower()
