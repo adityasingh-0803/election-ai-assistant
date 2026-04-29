@@ -1,0 +1,38 @@
+[
+  {
+    "question": "What is voting?",
+    "answer": "Voting is the process where citizens select their representatives in an election."
+  },
+  {
+    "question": "Who conducts elections in India?",
+    "answer": "Elections in India are conducted by the Election Commission of India."
+  },
+  {
+    "question": "What is EVM?",
+    "answer": "EVM stands for Electronic Voting Machine used to cast votes."
+  },
+  {
+    "question": "What is VVPAT?",
+    "answer": "VVPAT allows voters to verify their vote through a printed slip."
+  },
+  {
+    "question": "How can I register as a voter?",
+    "answer": "You can register online through the NVSP portal or by submitting Form 6 offline."
+  },
+  {
+    "question": "Who is eligible to vote in India?",
+    "answer": "Any Indian citizen aged 18 or above and registered in the electoral roll is eligible to vote."
+  },
+  {
+    "question": "What happens after voting?",
+    "answer": "After voting, the votes are securely stored in EVMs and later counted on counting day to declare results."
+  },
+  {
+    "question": "Explain the election process step by step",
+    "answer": "The election process includes voter registration, nomination of candidates, campaigning, voting, counting of votes, and declaration of results."
+  },
+  {
+    "question": "What is the role of the Election Commission?",
+    "answer": "The Election Commission ensures free and fair elections, manages electoral rolls, and oversees the entire election process."
+  }
+]

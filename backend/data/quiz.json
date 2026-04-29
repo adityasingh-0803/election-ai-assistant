@@ -1,0 +1,17 @@
+[
+  {
+    "question": "Who conducts elections in India?",
+    "options": ["Supreme Court", "Election Commission of India", "Parliament", "Prime Minister"],
+    "answer": "Election Commission of India"
+  },
+  {
+    "question": "What is EVM?",
+    "options": ["Electronic Voting Machine", "Election Voting Method", "Electronic Voter Management", "None"],
+    "answer": "Electronic Voting Machine"
+  },
+  {
+    "question": "What does VVPAT do?",
+    "options": ["Counts votes", "Stores votes", "Verifies vote via slip", "Displays result"],
+    "answer": "Verifies vote via slip"
+  }
+]
